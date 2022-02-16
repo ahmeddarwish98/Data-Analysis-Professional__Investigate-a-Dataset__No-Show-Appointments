@@ -18,7 +18,7 @@ using data analysis proccess to explore a data set answer questions we were inte
     2- Exploratory Data Analysis
         After  we've cleaned up the data, you're ready to move on to exploration, such as calculating statistics and graphics to address the research questions you asked in the Introduction section.
         
-    3- Conclusions¶
+    3- Conclusions
         • In conclusion, we conclude that sending the message does not significantly affect the patient's attendance.
 
         • But the patient's location greatly affects the percentage of his attendance with the arrival of the message.
